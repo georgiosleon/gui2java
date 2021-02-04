@@ -24,5 +24,6 @@ hs_err_pid*
 
 .idea/
 apps.iml
+*.iml
 .idea\
 /apps/artapp/models/models.iml
